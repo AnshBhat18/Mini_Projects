@@ -22,9 +22,9 @@ private:
 public:
     // Constructor to initialize default restaurant info
     RestaurantBilling() {
-        restaurantName = "AJ";
+        restaurantName = "AB";
         address = "10880 Malibu Point, Malibu";
-        contactNumber = "+91 7877095436";
+        contactNumber = "+91 7982987372";
     }
 
     // Display header with restaurant info
